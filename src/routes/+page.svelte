@@ -18,7 +18,7 @@
 			</picture>
 		</span>
 
-		to your new<br />SvelteKit app
+		Hello. Welcome from Onesec
 	</h1>
 
 	<h2>
