@@ -1,6 +1,6 @@
 # SvelteKit Demo app
 
-The official demo app for SvelteKit, hosted on Vercel.
+The official demo app for SvelteKit, hosted on Onesec.
 
 ## Developing
 
